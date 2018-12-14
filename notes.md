@@ -1,3 +1,5 @@
+Approximately 30-40 minutes code demo.
+
 ### Beginning
 
 Start with Scratch code
